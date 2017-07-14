@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+You create a new repository with a clean commit log.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area lets you put files in a "container" prior to placing into a repository.  Honestly, I'm not sure why this benefit.
