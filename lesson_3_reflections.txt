@@ -15,3 +15,7 @@ If you are offline you can still compare and work on files.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You would have to transfer files differently.   Comparing files would probably take more time depending on how you did it.  Merging files would probably be tedious and coordination between updates difficult.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You could use a branch when you want more than one version of a file, such as easy vs hard mode.  Or when you want to work on changes without modifying the master.
