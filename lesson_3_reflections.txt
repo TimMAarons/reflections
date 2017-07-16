@@ -12,3 +12,6 @@ Branches are versions of individual files, as opposed to a repository that is a 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you are offline you can still compare and work on files.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You would have to transfer files differently.   Comparing files would probably take more time depending on how you did it.  Merging files would probably be tedious and coordination between updates difficult.
